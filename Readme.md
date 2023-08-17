@@ -24,7 +24,7 @@ Currently in the midst of an enriching journey as an apprentice at Geekster, I a
 <p align="left">  
 <a href="https://linkedin.com/in/itsmeankitkumar" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/ankit.aksingh.961?mibextid=ZbWKwL" target="blank"><img src="https://img.icons8.com/?size=35&id=uLWV5A9vXIPu&format=png"/></a>
-<a href="https://www.instagram.com/ankit_.5/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+<a href="https://www.instagram.com/anki_.5/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 <a href="mailto:anktikumar55@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
