@@ -1,4 +1,4 @@
-![logo](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=70)
+![logo](https://github.com/ankitk55/git_first_repo/blob/main/Ankit%20Kumar%20(1).png)
 
 <h1 align="center">Hey! 👋, I'm Ankit</h1>
 <h3 align="center">
