@@ -13,7 +13,7 @@ Currently in the midst of an enriching journey as an apprentice at Geekster, I a
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitk55&label=Profile%20views&color=0e75b6&style=flat" alt="ankitk55" /> </p>
 
 
-- 🔭 I’m currently working [Geekster ](https://www.geekster.in/) as an Apprentice
+- 🔭 I’m currently working [Eupheus Learning ](https://www.eupheus.in/) as an Java Developer
 - 🌱 I’m currently learning ...Spring Boot , DSA 😊
 - 👨‍💻 All of my projects are available at [here](https://github.com/ankitk55?tab=repositories)
 - 💬 Ask me about **JAVA and Data structure and Algorithms**
